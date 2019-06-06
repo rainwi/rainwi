@@ -5,8 +5,8 @@
     
     <entry>
       <title>开博纪要</title>
-      <link href="/2019/%E5%BC%80%E5%8D%9A%E7%BA%AA%E8%A6%81.html"/>
-      <url>/2019/%E5%BC%80%E5%8D%9A%E7%BA%AA%E8%A6%81.html</url>
+      <link href="/2019/06/06/%E5%BC%80%E5%8D%9A%E7%BA%AA%E8%A6%81/"/>
+      <url>/2019/06/06/%E5%BC%80%E5%8D%9A%E7%BA%AA%E8%A6%81/</url>
       
         <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>周四 苏州</p><p>端午节前最后一天，本计划整理一下公众号的开发方式以及作为开发服务号做一个系列文章。再整理相关资料时发现有一些资料无处归纳。现在有一些文章放到技术博客上了。但是这些网站性质的不是太适合存放。突然想起之前关注的hexo博客，就临时构建了这个。<br>主要用途还是以资料收集为主，做几个专栏吧。</p>]]></content>
       
@@ -24,8 +24,8 @@
     
     <entry>
       <title>hexo博客常用插件及教程</title>
-      <link href="/2018/hexo%E5%8D%9A%E5%AE%A2%E5%B8%B8%E7%94%A8%E6%8F%92%E4%BB%B6%E5%8F%8A%E6%95%99%E7%A8%8B.html"/>
-      <url>/2018/hexo%E5%8D%9A%E5%AE%A2%E5%B8%B8%E7%94%A8%E6%8F%92%E4%BB%B6%E5%8F%8A%E6%95%99%E7%A8%8B.html</url>
+      <link href="/2018/07/31/hexo%E5%8D%9A%E5%AE%A2%E5%B8%B8%E7%94%A8%E6%8F%92%E4%BB%B6%E5%8F%8A%E6%95%99%E7%A8%8B/"/>
+      <url>/2018/07/31/hexo%E5%8D%9A%E5%AE%A2%E5%B8%B8%E7%94%A8%E6%8F%92%E4%BB%B6%E5%8F%8A%E6%95%99%E7%A8%8B/</url>
       
         <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><blockquote><p>为大家总结下hexo常用的插件与教程</p><p>合理的使用插件能够提高hexo的效率</p></blockquote><a id="more"></a><table><thead><tr><th align="center">命令</th><th align="center">功能</th><th align="center">文档</th></tr></thead><tbody><tr><td align="center">npm install hexo-generator-index-pin-top –save<br>npm uninstall hexo-generator-index –save</td><td align="center">文章置顶插件</td><td align="center"><a href="https://blog.csdn.net/qwerty200696/article/details/79010629" target="_blank" rel="noopener">点我</a></td></tr><tr><td align="center">npm i –save hexo-wordcount</td><td align="center">文章字数+阅读时长统计</td><td align="center"><a href="https://blog.csdn.net/ganzhilin520/article/details/79048036" target="_blank" rel="noopener">点我</a></td></tr><tr><td align="center">npm install hexo-baidu-url-submit –save</td><td align="center">百度链接主动推送</td><td align="center"><a href="https://hui-wang.info/2016/10/23/Hexo%E6%8F%92%E4%BB%B6%E4%B9%8B%E7%99%BE%E5%BA%A6%E4%B8%BB%E5%8A%A8%E6%8F%90%E4%BA%A4%E9%93%BE%E6%8E%A5/" target="_blank" rel="noopener">点我</a></td></tr><tr><td align="center">npm install hexo-deployer-ftpsync –save</td><td align="center">hexo上传至FTP服务器</td><td align="center"><a href="https://hexo.io/zh-cn/docs/deployment.html#FTPSync" target="_blank" rel="noopener">点我</a></td></tr><tr><td align="center">npm install hexo-deployer-cos –save</td><td align="center">hexo上传至腾讯云COS</td><td align="center"><a href="https://github.com/sdlzhd/hexo-deployer-cos#user-content-options" target="_blank" rel="noopener">点我</a></td></tr><tr><td align="center">npm install hexo-deployer-aliyun –save</td><td align="center">hexo上传至阿里云</td><td align="center"><a href="https://github.com/yedaodao/hexo-deployer-aliyun" target="_blank" rel="noopener">点我</a></td></tr><tr><td align="center">npm install –save hexo-admin</td><td align="center">hexo管理插件</td><td align="center"><a href="https://github.com/jaredly/hexo-admin" target="_blank" rel="noopener">点我</a></td></tr><tr><td align="center">hexo-blog-encrypt(请看文档)</td><td align="center">hexo文章加密码</td><td align="center"><a href="https://github.com/MikeCoder/hexo-blog-encrypt/blob/master/ReadMe.zh.md" target="_blank" rel="noopener">点我</a></td></tr><tr><td align="center">卜算子ip计数统计</td><td align="center">IP计数统计</td><td align="center"><a href="https://www.jianshu.com/p/8a8f880f40c0" target="_blank" rel="noopener">点我</a></td></tr><tr><td align="center">npm install leancloud-storage –save</td><td align="center">Valine评论</td><td align="center"><a href="https://valine.js.org/quickstart.html#npm" target="_blank" rel="noopener">点我</a></td></tr><tr><td align="center">Valine评论邮件通知</td><td align="center">Valine评论提醒</td><td align="center"><a href="http://www.zhaojun.im/hexo-valine-admin/" target="_blank" rel="noopener">点我</a></td></tr></tbody></table><blockquote><p>有需要的却找不到的，或者有优化方面的问题，都可以在下方留言，博主都会帮你解答</p></blockquote>]]></content>
       

@@ -7,7 +7,6 @@
 		} else {
 			return null;
 		}
-		
 	}
 })(jQuery);
 jQuery(document).ready(function() {
@@ -41,7 +40,7 @@ jQuery(document).ready(function() {
 		$("#PayPal").show();
 	}
 	if(count == 0){
-		$("#WeChat").after('<div id="ps">没有开启任何打赏选项!</div>');
+		$("#WeChat").after('<div id="ps">没有开启任何Donate选项!</div>');
 	}
 	$("#donateBox li,#donateBox li a").css("width", Math.ceil(74+(74*(4-count)/count))+"px");
 	function showQR(QR) {
